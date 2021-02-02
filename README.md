@@ -1,1 +1,1 @@
-# Hackathon_excal
+# SNIC-Software
